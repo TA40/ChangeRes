@@ -9,7 +9,7 @@ parser.add_argument("-y", help="Input Height")
 args = parser.parse_args()
 
 
-if args.x is None ot args.y is None:
+if args.x is None or args.y is None:
 	print("x and/or y is empty. You can input it now or launch the .exe with -x and -y parameters.\n")
 	print("Example: 1680x1050")
 	xy=input("Input the full resolution (widthXheight) like in the example: ")
