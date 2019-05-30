@@ -19,3 +19,7 @@ ChangeRes.exe -x 1280 -y 720
 
 ## Is there a .exe file?
 Yes, you can run it on every computer without having python 3 installed.
+
+## Credits
+With the help of StackOverflow and the Author Peter Wood
+https://stackoverflow.com/a/54262365/7799387
