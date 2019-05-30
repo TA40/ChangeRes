@@ -19,6 +19,7 @@ ChangeRes.exe -x 1280 -y 720
 
 ## Is there a .exe file?
 Yes, you can run it on every computer without having python 3 installed.
+https://github.com/TA40/ChangeRes/releases/download/1.0/ChangeRes.exe
 
 ## Credits
 With the help of StackOverflow and the Author Peter Wood
