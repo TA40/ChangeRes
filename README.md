@@ -3,6 +3,10 @@ Windows Resolution Changer
 
 Changes the Resolution by inputting the resolution after starting the script or by launching it with -x and -y parameters.
 
+## Requirements:
+pypiwin32
+argparse
+
 ## Creating a .bat File
 Create a .bat with the following code and replace *width* and *height*
 ```
@@ -12,3 +16,6 @@ For example:
 ```
 ChangeRes.exe -x 1280 -y 720
 ```
+
+## Is there a .exe file?
+Yes, you can run it on every computer without having python 3 installed.
