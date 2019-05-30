@@ -4,7 +4,7 @@ Windows Resolution Changer
 Changes the Resolution by inputting the resolution after starting the script or by launching it with -x and -y parameters.
 
 ## Requirements:
-pypiwin32
+pypiwin32\n
 argparse
 
 ## Creating a .bat File
